@@ -1,0 +1,26 @@
+# WhatsApp - Tareas concurrentes
+
+## ¿Qué es WhatsApp?
+
+WhatsApp es una aplicación de mensajería que permite enviar mensajes, imágenes, videos, audios y realizar llamadas por internet.
+
+## ¿Cómo utiliza tareas concurrentes?
+
+WhatsApp permite realizar diferentes operaciones al mismo tiempo. Por ejemplo, mientras escribimos un mensaje, la aplicación puede recibir nuevos mensajes o descargar archivos multimedia.
+
+Estas operaciones se realizan sin detener la conversación que el usuario está utilizando.
+
+## Operaciones en segundo plano
+
+- Recibir mensajes nuevos.
+- Descargar imágenes y videos.
+- Sincronizar información de las conversaciones.
+- Enviar archivos mientras el usuario continúa escribiendo.
+
+## Ejemplo
+
+Un usuario está escribiendo un mensaje en una conversación mientras WhatsApp descarga una fotografía recibida en otro chat. Ambas actividades pueden realizarse de manera concurrente.
+
+## Conclusión
+
+WhatsApp utiliza tareas concurrentes para gestionar mensajes y archivos sin interrumpir la comunicación entre los usuarios.
