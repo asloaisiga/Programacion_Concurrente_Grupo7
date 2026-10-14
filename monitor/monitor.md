@@ -12,7 +12,7 @@ El boceto contiene una tabla que muestra las aplicaciones, sus operaciones y el 
 
 También incluye una sección de detalles, una barra de progreso y tres botones principales.
 
-![Boceto del monitor de tareas](boceto-monitor.png)
+![Boceto del monitor de tareas](monitor.png)
 
 ## Funciones de los botones
 
